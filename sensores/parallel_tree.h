@@ -1,5 +1,5 @@
-#ifndef SEQUENTIAL_H
-#define SEQUENTIAL_H
+#ifndef PARALLEL_H
+#define PARALLEL_H
 
 #include "sensor_tree.h"
 
